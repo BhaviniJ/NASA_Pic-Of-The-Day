@@ -1,16 +1,3 @@
-
-
-
-Credits:
-	Template:
-		HTML5 UP (html5up.net)
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Picture of the day Web application
+NASA API Portal: https://api.nasa.gov/
+One of the most popular websites at NASA is the Astronomy Picture of the Day. 
